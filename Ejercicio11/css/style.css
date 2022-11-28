@@ -1,0 +1,36 @@
+table.tablas{
+    border-collapse: separate;
+    border: 2px rgb(0, 235, 252) solid;
+    box-shadow:-4px -4px 1px#8a8a8a inset;
+}
+
+table.tabla{
+    border-collapse: collapse;
+    border: 2px rgb(0, 235, 252) transparent;
+    box-shadow:-4px -4px 1px#8a8a8a inset;
+}
+
+.tabla, th{
+    background-color:  #003333;
+    color:  #ccffcc;
+    border: 2px rgb(0, 235, 252) solid;
+
+}
+.tabla, td{
+    background-color:  #ccffcc;
+    border: 2px rgb(0, 235, 252) transparent;
+    color: black;
+}
+.tabla, td.otro{
+    background-color:  #ccffcc;
+    border: 2px rgb(0, 235, 252) solid;
+    color: black;
+}
+.tabla, td.media{
+    background-color:  #00d420;
+    border: 2px rgb(0, 235, 252) solid;
+}
+
+div.medio{
+    color: #003333;
+}
