@@ -1,0 +1,20 @@
+div.anterior{
+    background: url("../imagen/f01.png") left bottom repeat-x,
+    url("../imagen/f02.png") left bottom no-repeat,
+    url("../imagen/f03.png") left top no-repeat;
+    background-color: #b4d8fa;
+    height: 110px;
+    width: 200px;
+    border: 2px blue solid;
+}
+div.actual{
+    margin:30px;
+    padding: 30px;
+    background: url("../imagen/f01.png") left bottom repeat-x,
+    url("../imagen/f02.png") left bottom no-repeat,
+    url("../imagen/f03.png") left top repeat-x;
+    background-color: #b4d8fa;
+    height: 300px;
+    width: 400px;
+    border: 4px red solid;
+}
