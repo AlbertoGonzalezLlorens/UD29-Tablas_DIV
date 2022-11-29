@@ -1,0 +1,13 @@
+p{
+    text-align: justify;
+}
+table{
+    border-collapse:separate;
+    border:1px grey solid;
+}
+th{
+    border:1px grey solid;
+}
+td{
+    border:1px grey solid;
+}
