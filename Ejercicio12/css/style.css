@@ -24,10 +24,23 @@ table.tabla{
     background-color:  #ccffcc;
     border: 2px rgb(0, 235, 252) solid;
     color: black;
+    text-align: center;
 }
-.tabla, td.media{
+.tabla, td.delante{
+    background-color:  #ccffcc;
+    border: 2px rgb(0, 235, 252) solid;
+    color: black;
+    text-align: left;
+}
+td.media{
     background-color:  #00d420;
     border: 2px rgb(0, 235, 252) solid;
+    text-align: center;
+}
+td.delante-media{
+    background-color:  #00d420;
+    border: 2px rgb(0, 235, 252) solid;
+    text-align: left;
 }
 
 div.medio{
